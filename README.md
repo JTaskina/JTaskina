@@ -1,4 +1,11 @@
-## Hi there 👋
+## Привет, меня зовут Юлия. 👋
+
+**Stack: SQL, PostgreSQL, ,Tableau, Python(pandas, Seaborn), Jupyter, MS Excel(формулы, макросы, сводные таблицы, ВПР, графики)**
+
+**На данный момент активно ищу работу**
+
+**Контакты: https://t.me/juliataskina , zul79taskina@yandex.ru**
+
 
 <!--
 **JTaskina/JTaskina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
